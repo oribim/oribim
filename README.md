@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @oribim
-- 👀 I’m interested in data analytics and vizualization
-- 🌱 I’m currently building my skillset in SQL and python programming
+- 👀 I’m interested in data analytics and visualization
+- 🌱 I’m skilled in SQL and developing expertise in Python programming
 - 💞️ I’m looking to collaborate on data projects
 - 📫 How to reach me: oribimlawson@yahoo.com
 
